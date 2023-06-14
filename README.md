@@ -1,0 +1,2 @@
+# mysql-java
+Maven project
